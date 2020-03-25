@@ -37,6 +37,7 @@ document.getElementById('button').addEventListener('click', function () {
 
 
 
+
 function clear () {
     let billValue = document.getElementById('bill').value = '';
     let tipPercentage = document.getElementById('percentages').value = '';
